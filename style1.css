@@ -1,0 +1,48 @@
+.body {background-color:white;
+}
+
+.x {background-color:white;
+   width:390px;
+   height:330px;
+   border:1px solid gray;
+   margin:50px;
+}
+
+.a {text-align:center;
+   font-weight:bolder;
+}
+
+.b {text-align:center;
+   font-weight:bolder;
+   font-size:20px;
+}
+
+input[type=text] {
+    
+    width: 85%;
+    padding: 10px;
+    margin: 10px 30px;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    border-radius:5px;
+    
+}
+input[type=password] {
+    width: 85%;
+    padding: 10px;
+    margin:10px 30px;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    border-radius:5px;
+}
+.sign_in {
+    float:right;
+    width:20%;
+    margin:10px 30px;
+    padding:8px;
+    background-color: blue;
+    color: white;
+    border-radius:5px;
+}
+
+

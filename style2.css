@@ -1,0 +1,52 @@
+.body {
+    width: 390px;
+    height: 400px;
+    margin:auto;
+    margin-top: 130px;
+    border:1px solid gray; 
+    box-sizing: border-box;
+
+}
+
+.a {
+    text-align: center;
+}
+
+.fb {
+    width:95px;
+    height:80px;
+}
+
+.tw {
+    width:75px;
+    height:70px;
+}
+
+.g {
+    width: 75px;
+    height:75px;
+}
+
+.b {
+    text-align: center;
+}
+
+input[type=text] {
+    width:100%;
+    padding:5px;
+    margin-bottom: 10px;
+}
+
+input[type=password] {
+    width:100%;
+    padding:5px;
+    margin-bottom: 10px;
+}
+
+.sign-in {
+    background: rgb(255, 102, 0);
+    color: white;
+    width:60px;
+    padding:5px;
+}
+
