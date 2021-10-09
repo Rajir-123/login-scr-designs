@@ -1,0 +1,57 @@
+.body {
+    background-image: linear-gradient(to top,palevioletred,mediumslateblue);
+}
+
+.a {
+   text-align:center; 
+}
+.b {
+    text-align:center; 
+}
+
+input[type=email] {
+    width:100%;
+    margin-bottom: 10px;
+    padding:5px;
+    border-radius: 10px;
+}
+
+input[type=password] {
+    width:100%;
+    padding:5px;
+    border-radius: 10px;
+}
+
+.c {
+    float:right;
+    margin-top: 3px;
+    color: white;
+}
+
+.login {
+    width:100%;
+    padding:5px;
+    border-radius: 10px;
+    background:deeppink;
+}
+
+.d {
+    color: white;
+}
+
+.fb {
+    width:100%;
+    padding:5px;
+    border-radius: 10px;
+    background: slateblue;
+}
+
+.icon {
+    color: white;
+}
+
+.abc {
+    color: white;
+}
+
+
